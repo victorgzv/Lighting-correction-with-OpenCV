@@ -29,9 +29,13 @@ I also used the contours method to find the borders of the white area. This vari
 Finally, the new image is displayed to the user beside the original one.
 
 This script has been tested with the given Text.jgp and similar images found on the internet. It successfully work and isolates the text in similar images.
+
 From this:
+
 ![alt text](https://github.com/victorgzv/Lighting-correction-with-OpenCV/blob/master/Text.jpg)
+
 to this more legible and cropped image
+
 ![alt text](https://github.com/victorgzv/Lighting-correction-with-OpenCV/blob/master/cleaned.png)
 
 
