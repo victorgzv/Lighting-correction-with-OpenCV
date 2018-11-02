@@ -2,7 +2,7 @@
 
 - Cleaning an image to obtain a more usable document (Lighting correction) -
 
-Victor Gonzalez - D16123580 - DT228
+-Victor Gonzalez-
 
 The human eye like contrast in images. Bright regions should be really bright and dark should be really dark. To achieve this in this assignment I have used histogram equalisation.
 Histogram equalisation (equalizeHist) takes the values that are very low in the original picture and strech them out to range from 0 to 255.
@@ -30,7 +30,7 @@ Finally, the new image is displayed to the user beside the original one.
 
 This script has been tested with the given Text.jgp and similar images found on the internet. It successfully work and isolates the text in similar images.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/victorgzv/Lighting-correction-with-OpenCV/blob/master/Text.jpg)
 
 
 
