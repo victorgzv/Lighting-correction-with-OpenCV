@@ -4,7 +4,7 @@
 
 -Victor Gonzalez-
 
-The human eye like contrast in images. Bright regions should be really bright and dark should be really dark. To achieve this in this assignment I have used histogram equalisation.
+The human eye like contrast in images. Bright regions should be really bright and dark should be really dark. To achieve this, in this assignment I have used histogram equalisation.
 Histogram equalisation (equalizeHist) takes the values that are very low in the original picture and strech them out to range from 0 to 255.
 This way the new image is using all the available values and will have a better contrast.
 
